@@ -39,7 +39,7 @@
 You can download [**Repository**](https://github.com/FreddyWhest/MajorBot) by cloning it to your system and installing the necessary dependencies:
 
 ```shell
-~ >>> git clone https://github.com/FreddyWhest/MajorBot.git
+~ >>> git clone https://github.com/ahmedjabbar4/MajorBot.git
 ~ >>> cd MajorBot
 
 #Linux and MocOS
